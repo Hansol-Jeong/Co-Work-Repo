@@ -1,6 +1,6 @@
 # Co-Work-Repo
 
-## Contributor
+## Contributors
 [Yus2on](https://github.com/Yus2on)    [LimNoah](https://github.com/LimNoah)  
 
 [Tezla-Lee](https://github.com/Tezla-Lee)   [Hansol-Jeong](https://github.com/Hansol-Jeong)
