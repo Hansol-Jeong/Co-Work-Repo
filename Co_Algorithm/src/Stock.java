@@ -41,7 +41,7 @@ public class Stock {
         }
         return answer_list.stream().mapToInt(i -> i).toArray();
     }
-    /*모범답안
+    /*모범답안:
     class Solution {
         public int[] solution(int[] prices) {
             int len = prices.length;
